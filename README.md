@@ -21,13 +21,13 @@ Udemy - clone
 	
 	
 ### Screenshot
-`<img src="./1.png">`
-<img src="./2.png">
-<img src="./3.png">
-<img src="./4.png">
-<img src="./5.png">
-<img src="./6.png">
-<img src="./7.png">
+
+<img src="./imgs/2.png">
+<img src="./imgs/3.png">
+<img src="./imgs/4.png">
+<img src="./imgs/5.png">
+<img src="./imgs/6.png">
+<img src="./imgs/7.png">
 	
 	
 	
