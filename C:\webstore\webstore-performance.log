@@ -1,0 +1,7 @@
+2018-01-14 20:27:07 INFO  Version:30 - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-14 20:30:08 INFO  Version:30 - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-14 20:30:10 INFO  ProcessingTimeLogInterceptor:37 - 39 millisecond taken to process the request http://localhost/market/products.
+2018-01-14 20:30:10 INFO  ProcessingTimeLogInterceptor:37 - 17 millisecond taken to process the request http://localhost/market/product.
+2018-01-14 20:49:47 INFO  Version:30 - HV000001: Hibernate Validator 5.2.4.Final
+2018-01-14 20:49:49 INFO  ProcessingTimeLogInterceptor:37 - 66 millisecond taken to process the request http://localhost/rest/cart/add/P1234.
+2018-01-14 20:49:49 INFO  ProcessingTimeLogInterceptor:37 - 152 millisecond taken to process the request http://localhost/rest/cart/1.
