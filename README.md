@@ -33,10 +33,6 @@ Udemy - clone project - The idea of project based on some features of Udemy
 <img src="./imgs/7.png">
 	
 	
-		
-Spring boot: https://github.com/mintster/nixmash-spring
-Chat :Spring MVX, servlet, async, Redis branch for distributed chat 
-https://github.com/rstoyanchev/spring-mvc-chat
 
 
 U: admin P: root123
